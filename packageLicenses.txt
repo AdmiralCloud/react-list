@@ -1,0 +1,18 @@
+include dir /Users/johannesfrohlich/workspace/react-list
+scanning /Users/johannesfrohlich/workspace/react-list
+└─ react-list@0.8.8
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/orgsync/react-list
+   ├─ licenseUrl: https://github.com/orgsync/react-list/raw/master/LICENSE
+   └─ parents: UNDEFINED
+
+Number of entries found: 1
+include dir /Users/johannesfrohlich/workspace/react-list
+scanning /Users/johannesfrohlich/workspace/react-list
+└─ react-list@0.8.8
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/coderiety/react-list
+   ├─ licenseUrl: https://github.com/coderiety/react-list/raw/master/LICENSE
+   └─ parents: UNDEFINED
+
+Number of entries found: 1
